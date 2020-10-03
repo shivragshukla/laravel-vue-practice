@@ -71,3 +71,22 @@ npm run watch
 
 - Username : admin@gmail.com
 - Password : 123456
+
+
+## Screenshot
+
+#### Login
+![login](https://user-images.githubusercontent.com/30346330/94990107-3c9c2a00-0597-11eb-9c6d-5aae7bad2ba4.png)
+
+#### Registration
+![registration](https://user-images.githubusercontent.com/30346330/94990113-4a51af80-0597-11eb-9823-9bbf30b9087d.png)
+
+#### Dashboard
+![dashboard](https://user-images.githubusercontent.com/30346330/94990115-4cb40980-0597-11eb-8363-9a54353c3adc.png)
+
+#### Router
+![router](https://user-images.githubusercontent.com/30346330/94990119-53428100-0597-11eb-8ea2-c0336602d739.png)
+
+#### Shell Script
+![scripting](https://user-images.githubusercontent.com/30346330/94990121-563d7180-0597-11eb-9f37-b902f7422bb6.png)
+
